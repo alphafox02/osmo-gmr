@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 #
 # (C) 2011-2019 by Sylvain Munaut <tnt@246tNt.com>
