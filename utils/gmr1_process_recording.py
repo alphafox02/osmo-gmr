@@ -26,7 +26,7 @@ import sys
 import re
 
 
-EXEC_GMR1_DEMOD = 'gmr1_rx_live'
+EXEC_GMR1_DEMOD = 'gmr1_rx'
 EXEC_GMR1_SPLIT = 'gmr1_rx_sdr.py'
 
 
